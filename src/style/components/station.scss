@@ -1,0 +1,10 @@
+.station{
+  &-header{
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.modal-width{
+  min-width: 400px;
+}
